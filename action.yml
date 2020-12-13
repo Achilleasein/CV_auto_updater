@@ -1,5 +1,5 @@
 # action.yml
-name: 'Push'
+name: 'Time to push.'
 description: 'Puuuuuush'
 runs:
   using: 'docker'
