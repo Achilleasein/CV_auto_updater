@@ -1,0 +1,6 @@
+# action.yml
+name: 'Push'
+description: 'Puuuuuush'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
